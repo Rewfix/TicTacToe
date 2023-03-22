@@ -1,0 +1,22 @@
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.exe.config
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.exe
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.pdb
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic_Tac_Toe.Form1.resources
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.exe
+C:\Users\Rewfix\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.pdb
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.exe.config
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.exe
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.pdb
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic_Tac_Toe.Form1.resources
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.exe
+C:\Users\Rewfix\Desktop\Приложения\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.pdb
